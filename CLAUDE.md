@@ -112,3 +112,4 @@ Lesson 1: Next Topic
 - Session management is in-memory only
 - always use uv to run de server do not use pip directly
 - use uv to run Python files
+- no corras el servidor usando ./run.sh Yo lo voy a correr por mi cuenta
