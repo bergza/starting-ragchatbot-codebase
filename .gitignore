@@ -75,3 +75,7 @@ htmlcov/
 # Temporary files
 *.tmp
 *.temp
+
+# Sensitive files
+key.txt
+*.bak
